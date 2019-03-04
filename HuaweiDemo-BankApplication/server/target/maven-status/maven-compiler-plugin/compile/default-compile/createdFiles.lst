@@ -1,0 +1,5 @@
+com\example\demo\DemoApplication.class
+com\example\demo\entity\Beer.class
+com\example\demo\repository\BeerCommandLineRunner.class
+com\example\demo\controller\BeerController.class
+com\example\demo\repository\BeerRepository.class

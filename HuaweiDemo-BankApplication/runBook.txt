@@ -1,0 +1,12 @@
+Installation:
+1) install npm, Node,PostgreSql with latest version 
+2) run server project firstly and then run client with npm install&start
+
+
+Usage:
+1) Atleast you need to create 2 users with SIGN UP to interact with users and then you can use the features.  
+
+
+Note: Every function of task has not been written yet such as Sell/Buy and such exception situation that i could not catch and some details. I tried to use different components and approaches,
+it was good experience for me i did not interest in react before. It was my first time and i like it. If you have any question about my code please dont hesitate to contact with me even if it was not a big project for you.
+Thank you for your time.
